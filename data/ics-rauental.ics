@@ -1,0 +1,783 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-8
+CREATED:20251203T125146Z
+DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Altp
+ apiertonne bereitstellen!
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Altpapier
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-13
+CREATED:20251203T125145Z
+DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Altp
+ apiertonne bereitstellen!
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Altpapier
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-29
+CREATED:20251203T125146Z
+DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen\, 
+ aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpackun
+ g).
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Gelber Sack
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260409
+DTEND;VALUE=DATE:20260410
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-18
+CREATED:20251203T125146Z
+DESCRIPTION:Grünschnitt mit Kordel bündeln bzw.  in kompostierbare Papiersä
+ cke (ca. 80 Liter) füllen\; feste Behältnisse wie z.B. kleinere Mörtelkübel
+  oder Pop-up Säcke\, leicht zu entleeren\, nur auf eigene Gefahr bereitstel
+ len\; Papiersäcke offenlassen\; Bündel bzw. Säcke höchstens 40 kg schwer un
+ d Äste im Bündel max. 1 Meter lang und 10 cm dick\; keine Big Bags/Regenfäs
+ ser/Schubkarren verwenden\; Kein Mutterboden\, keine Grasnarbe! 
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grünschnitt
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260414
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-5
+CREATED:20251203T125146Z
+DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Altp
+ apiertonne bereitstellen!
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Altpapier
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-40
+CREATED:20251203T125146Z
+DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen\, 
+ aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpackun
+ g).
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Gelber Sack
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260110
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-47
+CREATED:20251203T125146Z
+DESCRIPTION:Weihnachtsbäume\, max. 1\,80 m lang\, am Stück\, nicht zerlegt\
+ , ohne Dekoration\, ohne Ständer\; Keinen sonstigen Grünschnitt beilegen - 
+ wird nicht mitgenommen!
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tannenbäume
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260707
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-9
+CREATED:20251203T125146Z
+DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Altp
+ apiertonne bereitstellen!
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Altpapier
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260411T070000Z
+DTEND:20260411T104500Z
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-45
+CREATED:20251203T125146Z
+DESCRIPTION:Elektrokleinteile an diesem Tag beim Fachpersonal der Schadstof
+ fsammelstelle\, Schlachthofstraße 2 - 12 abgeben\; Annahmezeiten und Schlie
+ ßzeiten beachten!
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Schadstoffsammelstelle
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Elektrokleinteile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260703
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-34
+CREATED:20251203T125146Z
+DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen\, 
+ aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpackun
+ g).
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Gelber Sack
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-38
+CREATED:20251203T125146Z
+DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen\, 
+ aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpackun
+ g).
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Gelber Sack
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-22
+CREATED:20251203T125146Z
+DESCRIPTION:Grünschnitt mit Kordel bündeln bzw.  in kompostierbare Papiersä
+ cke (ca. 80 Liter) füllen\; feste Behältnisse wie z.B. kleinere Mörtelkübel
+  oder Pop-up Säcke\, leicht zu entleeren\, nur auf eigene Gefahr bereitstel
+ len\; Papiersäcke offenlassen\; Bündel bzw. Säcke höchstens 40 kg schwer un
+ d Äste im Bündel max. 1 Meter lang und 10 cm dick\; keine Big Bags/Regenfäs
+ ser/Schubkarren verwenden\; Kein Mutterboden\, keine Grasnarbe! 
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grünschnitt
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-31
+CREATED:20251203T125146Z
+DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen\, 
+ aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpackun
+ g).
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Gelber Sack
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260411T070000Z
+DTEND:20260411T104500Z
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-43
+CREATED:20251203T125146Z
+DESCRIPTION:Problemabfälle an diesem Tag beim Fachpersonal der Schadstoffsa
+ mmelstelle\, Schlachthofstraße 2 - 12 abgeben\; Annahmezeiten und Schließze
+ iten beachten!
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Schadstoffsammelstelle
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Schadstoffe
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260505
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-6
+CREATED:20251203T125146Z
+DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Altp
+ apiertonne bereitstellen!
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Altpapier
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261107T080000Z
+DTEND:20261107T114500Z
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-46
+CREATED:20251203T125146Z
+DESCRIPTION:Elektrokleinteile an diesem Tag beim Fachpersonal der Schadstof
+ fsammelstelle\, Schlachthofstraße 2 - 12 abgeben\; Annahmezeiten und Schlie
+ ßzeiten beachten!
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Schadstoffsammelstelle
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Elektrokleinteile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260209
+DTEND;VALUE=DATE:20260210
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-2
+CREATED:20251203T125146Z
+DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Altp
+ apiertonne bereitstellen!
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Altpapier
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-35
+CREATED:20251203T125146Z
+DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen\, 
+ aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpackun
+ g).
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Gelber Sack
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-23
+CREATED:20251203T125146Z
+DESCRIPTION:Grünschnitt mit Kordel bündeln bzw.  in kompostierbare Papiersä
+ cke (ca. 80 Liter) füllen\; feste Behältnisse wie z.B. kleinere Mörtelkübel
+  oder Pop-up Säcke\, leicht zu entleeren\, nur auf eigene Gefahr bereitstel
+ len\; Papiersäcke offenlassen\; Bündel bzw. Säcke höchstens 40 kg schwer un
+ d Äste im Bündel max. 1 Meter lang und 10 cm dick\; keine Big Bags/Regenfäs
+ ser/Schubkarren verwenden\; Kein Mutterboden\, keine Grasnarbe! 
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grünschnitt
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-17
+CREATED:20251203T125146Z
+DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Altp
+ apiertonne bereitstellen!
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Altpapier
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260618
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-20
+CREATED:20251203T125146Z
+DESCRIPTION:Grünschnitt mit Kordel bündeln bzw.  in kompostierbare Papiersä
+ cke (ca. 80 Liter) füllen\; feste Behältnisse wie z.B. kleinere Mörtelkübel
+  oder Pop-up Säcke\, leicht zu entleeren\, nur auf eigene Gefahr bereitstel
+ len\; Papiersäcke offenlassen\; Bündel bzw. Säcke höchstens 40 kg schwer un
+ d Äste im Bündel max. 1 Meter lang und 10 cm dick\; keine Big Bags/Regenfäs
+ ser/Schubkarren verwenden\; Kein Mutterboden\, keine Grasnarbe! 
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grünschnitt
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260303
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-3
+CREATED:20251203T125146Z
+DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Altp
+ apiertonne bereitstellen!
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Altpapier
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260514
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-19
+CREATED:20251203T125146Z
+DESCRIPTION:Grünschnitt mit Kordel bündeln bzw.  in kompostierbare Papiersä
+ cke (ca. 80 Liter) füllen\; feste Behältnisse wie z.B. kleinere Mörtelkübel
+  oder Pop-up Säcke\, leicht zu entleeren\, nur auf eigene Gefahr bereitstel
+ len\; Papiersäcke offenlassen\; Bündel bzw. Säcke höchstens 40 kg schwer un
+ d Äste im Bündel max. 1 Meter lang und 10 cm dick\; keine Big Bags/Regenfäs
+ ser/Schubkarren verwenden\; Kein Mutterboden\, keine Grasnarbe! 
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grünschnitt
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-12
+CREATED:20251203T125145Z
+DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Altp
+ apiertonne bereitstellen!
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Altpapier
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-42
+CREATED:20251203T125146Z
+DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen\, 
+ aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpackun
+ g).
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Gelber Sack
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260120
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-1
+CREATED:20251203T125145Z
+DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Altp
+ apiertonne bereitstellen!
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Altpapier
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260226
+DTEND;VALUE=DATE:20260227
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-28
+CREATED:20251203T125146Z
+DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen\, 
+ aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpackun
+ g).
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Gelber Sack
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-33
+CREATED:20251203T125146Z
+DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen\, 
+ aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpackun
+ g).
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Gelber Sack
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-36
+CREATED:20251203T125146Z
+DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen\, 
+ aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpackun
+ g).
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Gelber Sack
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-21
+CREATED:20251203T125146Z
+DESCRIPTION:Grünschnitt mit Kordel bündeln bzw.  in kompostierbare Papiersä
+ cke (ca. 80 Liter) füllen\; feste Behältnisse wie z.B. kleinere Mörtelkübel
+  oder Pop-up Säcke\, leicht zu entleeren\, nur auf eigene Gefahr bereitstel
+ len\; Papiersäcke offenlassen\; Bündel bzw. Säcke höchstens 40 kg schwer un
+ d Äste im Bündel max. 1 Meter lang und 10 cm dick\; keine Big Bags/Regenfäs
+ ser/Schubkarren verwenden\; Kein Mutterboden\, keine Grasnarbe! 
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grünschnitt
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-32
+CREATED:20251203T125146Z
+DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen\, 
+ aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpackun
+ g).
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Gelber Sack
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-24
+CREATED:20251203T125146Z
+DESCRIPTION:Grünschnitt mit Kordel bündeln bzw.  in kompostierbare Papiersä
+ cke (ca. 80 Liter) füllen\; feste Behältnisse wie z.B. kleinere Mörtelkübel
+  oder Pop-up Säcke\, leicht zu entleeren\, nur auf eigene Gefahr bereitstel
+ len\; Papiersäcke offenlassen\; Bündel bzw. Säcke höchstens 40 kg schwer un
+ d Äste im Bündel max. 1 Meter lang und 10 cm dick\; keine Big Bags/Regenfäs
+ ser/Schubkarren verwenden\; Kein Mutterboden\, keine Grasnarbe! 
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grünschnitt
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-39
+CREATED:20251203T125146Z
+DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen\, 
+ aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpackun
+ g).
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Gelber Sack
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260203
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-48
+CREATED:20251203T125146Z
+DESCRIPTION:Weihnachtsbäume\, max. 1\,80 m lang\, am Stück\, nicht zerlegt\
+ , ohne Dekoration\, ohne Ständer\; Keinen sonstigen Grünschnitt beilegen - 
+ wird nicht mitgenommen!
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tannenbäume
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-10
+CREATED:20251203T125145Z
+DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Altp
+ apiertonne bereitstellen!
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Altpapier
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260205
+DTEND;VALUE=DATE:20260206
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-27
+CREATED:20251203T125146Z
+DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen\, 
+ aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpackun
+ g).
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Gelber Sack
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-14
+CREATED:20251203T125145Z
+DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Altp
+ apiertonne bereitstellen!
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Altpapier
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-15
+CREATED:20251203T125146Z
+DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Altp
+ apiertonne bereitstellen!
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Altpapier
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260116
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-26
+CREATED:20251203T125146Z
+DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen\, 
+ aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpackun
+ g).
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Gelber Sack
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260324
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-4
+CREATED:20251203T125146Z
+DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Altp
+ apiertonne bereitstellen!
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Altpapier
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-30
+CREATED:20251203T125146Z
+DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen\, 
+ aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpackun
+ g).
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Gelber Sack
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-16
+CREATED:20251203T125146Z
+DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Altp
+ apiertonne bereitstellen!
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Altpapier
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-37
+CREATED:20251203T125146Z
+DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen\, 
+ aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpackun
+ g).
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Gelber Sack
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-41
+CREATED:20251203T125146Z
+DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen\, 
+ aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpackun
+ g).
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Gelber Sack
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-7
+CREATED:20251203T125146Z
+DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Altp
+ apiertonne bereitstellen!
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Altpapier
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261107T080000Z
+DTEND:20261107T114500Z
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-44
+CREATED:20251203T125146Z
+DESCRIPTION:Problemabfälle an diesem Tag beim Fachpersonal der Schadstoffsa
+ mmelstelle\, Schlachthofstraße 2 - 12 abgeben\; Annahmezeiten und Schließze
+ iten beachten!
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Schadstoffsammelstelle
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Schadstoffe
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-11
+CREATED:20251203T125145Z
+DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Altp
+ apiertonne bereitstellen!
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Altpapier
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+DTSTAMP:20251203T135614Z
+UID:20251202T125716Z-@spyron-25
+CREATED:20251203T125146Z
+DESCRIPTION:Grünschnitt mit Kordel bündeln bzw.  in kompostierbare Papiersä
+ cke (ca. 80 Liter) füllen\; feste Behältnisse wie z.B. kleinere Mörtelkübel
+  oder Pop-up Säcke\, leicht zu entleeren\, nur auf eigene Gefahr bereitstel
+ len\; Papiersäcke offenlassen\; Bündel bzw. Säcke höchstens 40 kg schwer un
+ d Äste im Bündel max. 1 Meter lang und 10 cm dick\; keine Big Bags/Regenfäs
+ ser/Schubkarren verwenden\; Kein Mutterboden\, keine Grasnarbe! 
+LAST-MODIFIED:20251203T125147Z
+LOCATION:Rauental
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grünschnitt
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
