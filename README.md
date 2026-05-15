@@ -273,3 +273,114 @@ Then merge into your main calendar:
 Accepts German or English, case-insensitive:
 `montag`, `dienstag`, `mittwoch`, `donnerstag`, `freitag`, `samstag`, `sonntag`
 (or `monday`, `tuesday`, `wednesday`, `thursday`, `friday`, `saturday`, `sunday`)
+
+
+### My own Setup
+
+1) Download the Calendar from your city
+
+2) copy it into the data-directory
+
+3) create missing events for garbage bins that are missing from the calendar
+
+```bash
+./generate_garbage.py \
+  --year=2026 \
+  --bundesland=RLP \
+  --weekday=montag \
+  --odd-week="Graue Tonne (Restmüll)" \
+  --even-week="Braune Tonne (Biotonne)" \
+  --output=generated_2026.ics
+```
+
+4) merge that calendar to the one we just downloaded
+
+```bash
+./ha_cal.py --ical-file=data/ics-rauental.ics --merge=generated_2026.ics
+```
+
+# setup home assistant, we need 2 software packages that might not be installed yet
+
+5) open Terminal addon
+```bash
+apk add python3
+apk add uv
+```
+
+6) open /config/configuration.yaml (it's a symlink to /homeassistant/configuration.yaml)
+
+add into the yaml code
+
+```yaml
+shell_command:
+  garbage_day: >-
+    bash -c 'cd /config/garbage-day && ./ha_cal.py
+    --ical-file=data/ics-rauental.ics
+    --time={{ days }}d
+    --output-events=50
+    --output-text={% raw %}"In den nächsten {{ days }} Tagen {% if events|length == 1 %}steht 1 Event an{% else %}stehen {{ events|length }} Events an{% endif %}{% if events|length == 0 %}.{% else %}: {% for e in events %}{{ e.summary }} am {{ e.date|weekday }}, {{ e.date.day }}.{{ e.date.month }}.{{ e.date.year }}{% if not loop.last %} und {% endif %}{% endfor %}{% endif %}"{% endraw %}'
+  setup_garbage_venv: "bash -c 'cd /config/garbage-day && bash setup_venv.sh'"
+```
+
+7) reload / restart home assistant
+
+8) go to settings -> developer tools and execute "action: shell_command.setup_garbage_venv". It cannot be the terminal, it is a different docker instance.
+
+9) go to settings -> automation
+
+9.1) add automation
+```yaml
+alias: Telegram Abfall-Erinnerung (daily)
+description: schickt mir Telegramm-Nachrichten wenn Abfall rauszustellen ist
+triggers:
+  - trigger: time
+    at: "16:00:00"
+    weekday:
+      - wed
+      - mon
+      - tue
+      - thu
+      - sat
+      - fri
+      - sun
+conditions: []
+actions:
+  - action: shell_command.garbage_day
+    data:
+      days: 2
+    response_variable: script_ergebnis
+  - condition: template
+    value_template: "{{ '0 Events' not in script_ergebnis['stdout'] }}"
+  - action: telegram_bot.send_message
+    data:
+      title: Abfallerinnerung! 🗑️
+      message: "{{ script_ergebnis['stdout'] }}"
+mode: single
+```
+
+9.2) add automation
+```yaml
+alias: Telegram Abfall-Erinnerung (weekly)
+description: schickt mir Telegramm-Nachrichten wenn Abfall rauszustellen ist
+triggers:
+  - trigger: time
+    at: "12:00:00"
+    weekday:
+      - sun
+conditions: []
+actions:
+  - action: shell_command.garbage_day
+    data:
+      days: 7
+    response_variable: script_ergebnis
+  - condition: template
+    value_template: "{{ '0 Events' not in script_ergebnis['stdout'] }}"
+  - action: telegram_bot.send_message
+    data:
+      title: Abfallerinnerung (weekly)! 🚛
+      message: "{{ script_ergebnis['stdout'] }}"
+mode: single
+```
+
+works on my machine (tm)
+
