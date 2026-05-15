@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ha_cal"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = [
+    "icalendar>=5.0",
+    "recurring_ical_events>=2.1",
+    "jinja2>=3.0",
+    "holidays>=0.50",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0"]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["ha_cal*"]

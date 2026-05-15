@@ -1,0 +1,7 @@
+{% if events|length == 0 %}
+{% if next_event %}Nächster Termin: {{ next_event.summary }} am {{ next_event.date|datefmt }}{% endif %}
+{% elif events|length == 1 %}
+Erinnerung: {{ events[0].summary }} {{ "morgen" if events[0].days_until == 1 else "am " ~ events[0].date|datefmt }}
+{% else %}
+In den nächsten {{ days }} Tagen: {% for e in events %}{{ e.summary }} ({{ e.date|datefmt }}){% if not loop.last %} und {% endif %}{% endfor %}
+{% endif %}
