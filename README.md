@@ -275,7 +275,7 @@ Accepts German or English, case-insensitive:
 (or `monday`, `tuesday`, `wednesday`, `thursday`, `friday`, `saturday`, `sunday`)
 
 
-### My own Setup
+# My own Setup
 
 1) Download the Calendar from your city
 
@@ -299,7 +299,7 @@ Accepts German or English, case-insensitive:
 ./ha_cal.py --ical-file=data/ics-rauental.ics --merge=generated_2026.ics
 ```
 
-# setup home assistant, we need 2 software packages that might not be installed yet
+## setup home assistant, we need 2 software packages that might not be installed yet
 
 5) open Terminal addon
 ```bash
