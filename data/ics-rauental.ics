@@ -1,783 +1,1105 @@
 BEGIN:VCALENDAR
-PRODID:-//Google Inc//Google Calendar 70.9054//EN
 VERSION:2.0
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:2
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
+SUMMARY:Altpapier
 DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20260616
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-8
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Altp
- apiertonne bereitstellen!
+DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Al
+ tpapiertonne bereitstellen!
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Altpapier
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Altpapier
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-13
+SEQUENCE:0
 CREATED:20251203T125145Z
-DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Altp
- apiertonne bereitstellen!
+DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Al
+ tpapiertonne bereitstellen!
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Altpapier
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gelber Sack
 DTSTART;VALUE=DATE:20260319
 DTEND;VALUE=DATE:20260320
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-29
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen\, 
- aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpackun
- g).
+DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen
+ \, aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpa
+ ckung).
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Gelber Sack
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Grünschnitt
 DTSTART;VALUE=DATE:20260409
 DTEND;VALUE=DATE:20260410
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-18
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:Grünschnitt mit Kordel bündeln bzw.  in kompostierbare Papiersä
- cke (ca. 80 Liter) füllen\; feste Behältnisse wie z.B. kleinere Mörtelkübel
-  oder Pop-up Säcke\, leicht zu entleeren\, nur auf eigene Gefahr bereitstel
- len\; Papiersäcke offenlassen\; Bündel bzw. Säcke höchstens 40 kg schwer un
- d Äste im Bündel max. 1 Meter lang und 10 cm dick\; keine Big Bags/Regenfäs
- ser/Schubkarren verwenden\; Kein Mutterboden\, keine Grasnarbe! 
+DESCRIPTION:Grünschnitt mit Kordel bündeln bzw.  in kompostierbare Papie
+ rsäcke (ca. 80 Liter) füllen\; feste Behältnisse wie z.B. kleinere Mör
+ telkübel oder Pop-up Säcke\, leicht zu entleeren\, nur auf eigene Gefahr
+  bereitstellen\; Papiersäcke offenlassen\; Bündel bzw. Säcke höchstens
+  40 kg schwer und Äste im Bündel max. 1 Meter lang und 10 cm dick\; kein
+ e Big Bags/Regenfässer/Schubkarren verwenden\; Kein Mutterboden\, keine G
+ rasnarbe! 
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Grünschnitt
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Altpapier
 DTSTART;VALUE=DATE:20260413
 DTEND;VALUE=DATE:20260414
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-5
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Altp
- apiertonne bereitstellen!
+DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Al
+ tpapiertonne bereitstellen!
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Altpapier
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gelber Sack
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-40
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen\, 
- aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpackun
- g).
+DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen
+ \, aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpa
+ ckung).
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Gelber Sack
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tannenbäume
 DTSTART;VALUE=DATE:20260109
 DTEND;VALUE=DATE:20260110
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-47
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:Weihnachtsbäume\, max. 1\,80 m lang\, am Stück\, nicht zerlegt\
- , ohne Dekoration\, ohne Ständer\; Keinen sonstigen Grünschnitt beilegen - 
- wird nicht mitgenommen!
+DESCRIPTION:Weihnachtsbäume\, max. 1\,80 m lang\, am Stück\, nicht zerle
+ gt\, ohne Dekoration\, ohne Ständer\; Keinen sonstigen Grünschnitt beile
+ gen - wird nicht mitgenommen!
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Tannenbäume
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Altpapier
 DTSTART;VALUE=DATE:20260706
 DTEND;VALUE=DATE:20260707
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-9
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Altp
- apiertonne bereitstellen!
+DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Al
+ tpapiertonne bereitstellen!
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Altpapier
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Elektrokleinteile
 DTSTART:20260411T070000Z
 DTEND:20260411T104500Z
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-45
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:Elektrokleinteile an diesem Tag beim Fachpersonal der Schadstof
- fsammelstelle\, Schlachthofstraße 2 - 12 abgeben\; Annahmezeiten und Schlie
- ßzeiten beachten!
+DESCRIPTION:Elektrokleinteile an diesem Tag beim Fachpersonal der Schadsto
+ ffsammelstelle\, Schlachthofstraße 2 - 12 abgeben\; Annahmezeiten und Sch
+ ließzeiten beachten!
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Schadstoffsammelstelle
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Elektrokleinteile
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gelber Sack
 DTSTART;VALUE=DATE:20260702
 DTEND;VALUE=DATE:20260703
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-34
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen\, 
- aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpackun
- g).
+DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen
+ \, aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpa
+ ckung).
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Gelber Sack
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gelber Sack
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-38
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen\, 
- aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpackun
- g).
+DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen
+ \, aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpa
+ ckung).
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Gelber Sack
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Grünschnitt
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-22
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:Grünschnitt mit Kordel bündeln bzw.  in kompostierbare Papiersä
- cke (ca. 80 Liter) füllen\; feste Behältnisse wie z.B. kleinere Mörtelkübel
-  oder Pop-up Säcke\, leicht zu entleeren\, nur auf eigene Gefahr bereitstel
- len\; Papiersäcke offenlassen\; Bündel bzw. Säcke höchstens 40 kg schwer un
- d Äste im Bündel max. 1 Meter lang und 10 cm dick\; keine Big Bags/Regenfäs
- ser/Schubkarren verwenden\; Kein Mutterboden\, keine Grasnarbe! 
+DESCRIPTION:Grünschnitt mit Kordel bündeln bzw.  in kompostierbare Papie
+ rsäcke (ca. 80 Liter) füllen\; feste Behältnisse wie z.B. kleinere Mör
+ telkübel oder Pop-up Säcke\, leicht zu entleeren\, nur auf eigene Gefahr
+  bereitstellen\; Papiersäcke offenlassen\; Bündel bzw. Säcke höchstens
+  40 kg schwer und Äste im Bündel max. 1 Meter lang und 10 cm dick\; kein
+ e Big Bags/Regenfässer/Schubkarren verwenden\; Kein Mutterboden\, keine G
+ rasnarbe! 
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Grünschnitt
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gelber Sack
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260501
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-31
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen\, 
- aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpackun
- g).
+DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen
+ \, aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpa
+ ckung).
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Gelber Sack
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Schadstoffe
 DTSTART:20260411T070000Z
 DTEND:20260411T104500Z
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-43
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:Problemabfälle an diesem Tag beim Fachpersonal der Schadstoffsa
- mmelstelle\, Schlachthofstraße 2 - 12 abgeben\; Annahmezeiten und Schließze
- iten beachten!
+DESCRIPTION:Problemabfälle an diesem Tag beim Fachpersonal der Schadstoff
+ sammelstelle\, Schlachthofstraße 2 - 12 abgeben\; Annahmezeiten und Schli
+ eßzeiten beachten!
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Schadstoffsammelstelle
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Schadstoffe
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Altpapier
 DTSTART;VALUE=DATE:20260504
 DTEND;VALUE=DATE:20260505
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-6
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Altp
- apiertonne bereitstellen!
+DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Al
+ tpapiertonne bereitstellen!
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Altpapier
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Elektrokleinteile
 DTSTART:20261107T080000Z
 DTEND:20261107T114500Z
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-46
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:Elektrokleinteile an diesem Tag beim Fachpersonal der Schadstof
- fsammelstelle\, Schlachthofstraße 2 - 12 abgeben\; Annahmezeiten und Schlie
- ßzeiten beachten!
+DESCRIPTION:Elektrokleinteile an diesem Tag beim Fachpersonal der Schadsto
+ ffsammelstelle\, Schlachthofstraße 2 - 12 abgeben\; Annahmezeiten und Sch
+ ließzeiten beachten!
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Schadstoffsammelstelle
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Elektrokleinteile
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Altpapier
 DTSTART;VALUE=DATE:20260209
 DTEND;VALUE=DATE:20260210
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-2
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Altp
- apiertonne bereitstellen!
+DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Al
+ tpapiertonne bereitstellen!
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Altpapier
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gelber Sack
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-35
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen\, 
- aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpackun
- g).
+DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen
+ \, aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpa
+ ckung).
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Gelber Sack
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Grünschnitt
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-23
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:Grünschnitt mit Kordel bündeln bzw.  in kompostierbare Papiersä
- cke (ca. 80 Liter) füllen\; feste Behältnisse wie z.B. kleinere Mörtelkübel
-  oder Pop-up Säcke\, leicht zu entleeren\, nur auf eigene Gefahr bereitstel
- len\; Papiersäcke offenlassen\; Bündel bzw. Säcke höchstens 40 kg schwer un
- d Äste im Bündel max. 1 Meter lang und 10 cm dick\; keine Big Bags/Regenfäs
- ser/Schubkarren verwenden\; Kein Mutterboden\, keine Grasnarbe! 
+DESCRIPTION:Grünschnitt mit Kordel bündeln bzw.  in kompostierbare Papie
+ rsäcke (ca. 80 Liter) füllen\; feste Behältnisse wie z.B. kleinere Mör
+ telkübel oder Pop-up Säcke\, leicht zu entleeren\, nur auf eigene Gefahr
+  bereitstellen\; Papiersäcke offenlassen\; Bündel bzw. Säcke höchstens
+  40 kg schwer und Äste im Bündel max. 1 Meter lang und 10 cm dick\; kein
+ e Big Bags/Regenfässer/Schubkarren verwenden\; Kein Mutterboden\, keine G
+ rasnarbe! 
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Grünschnitt
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Altpapier
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-17
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Altp
- apiertonne bereitstellen!
+DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Al
+ tpapiertonne bereitstellen!
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Altpapier
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Grünschnitt
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260618
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-20
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:Grünschnitt mit Kordel bündeln bzw.  in kompostierbare Papiersä
- cke (ca. 80 Liter) füllen\; feste Behältnisse wie z.B. kleinere Mörtelkübel
-  oder Pop-up Säcke\, leicht zu entleeren\, nur auf eigene Gefahr bereitstel
- len\; Papiersäcke offenlassen\; Bündel bzw. Säcke höchstens 40 kg schwer un
- d Äste im Bündel max. 1 Meter lang und 10 cm dick\; keine Big Bags/Regenfäs
- ser/Schubkarren verwenden\; Kein Mutterboden\, keine Grasnarbe! 
+DESCRIPTION:Grünschnitt mit Kordel bündeln bzw.  in kompostierbare Papie
+ rsäcke (ca. 80 Liter) füllen\; feste Behältnisse wie z.B. kleinere Mör
+ telkübel oder Pop-up Säcke\, leicht zu entleeren\, nur auf eigene Gefahr
+  bereitstellen\; Papiersäcke offenlassen\; Bündel bzw. Säcke höchstens
+  40 kg schwer und Äste im Bündel max. 1 Meter lang und 10 cm dick\; kein
+ e Big Bags/Regenfässer/Schubkarren verwenden\; Kein Mutterboden\, keine G
+ rasnarbe! 
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Grünschnitt
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Altpapier
 DTSTART;VALUE=DATE:20260302
 DTEND;VALUE=DATE:20260303
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-3
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Altp
- apiertonne bereitstellen!
+DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Al
+ tpapiertonne bereitstellen!
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Altpapier
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Grünschnitt
 DTSTART;VALUE=DATE:20260513
 DTEND;VALUE=DATE:20260514
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-19
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:Grünschnitt mit Kordel bündeln bzw.  in kompostierbare Papiersä
- cke (ca. 80 Liter) füllen\; feste Behältnisse wie z.B. kleinere Mörtelkübel
-  oder Pop-up Säcke\, leicht zu entleeren\, nur auf eigene Gefahr bereitstel
- len\; Papiersäcke offenlassen\; Bündel bzw. Säcke höchstens 40 kg schwer un
- d Äste im Bündel max. 1 Meter lang und 10 cm dick\; keine Big Bags/Regenfäs
- ser/Schubkarren verwenden\; Kein Mutterboden\, keine Grasnarbe! 
+DESCRIPTION:Grünschnitt mit Kordel bündeln bzw.  in kompostierbare Papie
+ rsäcke (ca. 80 Liter) füllen\; feste Behältnisse wie z.B. kleinere Mör
+ telkübel oder Pop-up Säcke\, leicht zu entleeren\, nur auf eigene Gefahr
+  bereitstellen\; Papiersäcke offenlassen\; Bündel bzw. Säcke höchstens
+  40 kg schwer und Äste im Bündel max. 1 Meter lang und 10 cm dick\; kein
+ e Big Bags/Regenfässer/Schubkarren verwenden\; Kein Mutterboden\, keine G
+ rasnarbe! 
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Grünschnitt
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Altpapier
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-12
+SEQUENCE:0
 CREATED:20251203T125145Z
-DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Altp
- apiertonne bereitstellen!
+DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Al
+ tpapiertonne bereitstellen!
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Altpapier
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gelber Sack
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-42
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen\, 
- aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpackun
- g).
+DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen
+ \, aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpa
+ ckung).
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Gelber Sack
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Altpapier
 DTSTART;VALUE=DATE:20260119
 DTEND;VALUE=DATE:20260120
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-1
+SEQUENCE:0
 CREATED:20251203T125145Z
-DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Altp
- apiertonne bereitstellen!
+DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Al
+ tpapiertonne bereitstellen!
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Altpapier
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gelber Sack
 DTSTART;VALUE=DATE:20260226
 DTEND;VALUE=DATE:20260227
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-28
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen\, 
- aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpackun
- g).
+DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen
+ \, aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpa
+ ckung).
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Gelber Sack
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gelber Sack
 DTSTART;VALUE=DATE:20260611
 DTEND;VALUE=DATE:20260612
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-33
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen\, 
- aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpackun
- g).
+DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen
+ \, aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpa
+ ckung).
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Gelber Sack
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gelber Sack
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-36
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen\, 
- aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpackun
- g).
+DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen
+ \, aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpa
+ ckung).
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Gelber Sack
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Grünschnitt
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20260723
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-21
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:Grünschnitt mit Kordel bündeln bzw.  in kompostierbare Papiersä
- cke (ca. 80 Liter) füllen\; feste Behältnisse wie z.B. kleinere Mörtelkübel
-  oder Pop-up Säcke\, leicht zu entleeren\, nur auf eigene Gefahr bereitstel
- len\; Papiersäcke offenlassen\; Bündel bzw. Säcke höchstens 40 kg schwer un
- d Äste im Bündel max. 1 Meter lang und 10 cm dick\; keine Big Bags/Regenfäs
- ser/Schubkarren verwenden\; Kein Mutterboden\, keine Grasnarbe! 
+DESCRIPTION:Grünschnitt mit Kordel bündeln bzw.  in kompostierbare Papie
+ rsäcke (ca. 80 Liter) füllen\; feste Behältnisse wie z.B. kleinere Mör
+ telkübel oder Pop-up Säcke\, leicht zu entleeren\, nur auf eigene Gefahr
+  bereitstellen\; Papiersäcke offenlassen\; Bündel bzw. Säcke höchstens
+  40 kg schwer und Äste im Bündel max. 1 Meter lang und 10 cm dick\; kein
+ e Big Bags/Regenfässer/Schubkarren verwenden\; Kein Mutterboden\, keine G
+ rasnarbe! 
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Grünschnitt
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gelber Sack
 DTSTART;VALUE=DATE:20260521
 DTEND;VALUE=DATE:20260522
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-32
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen\, 
- aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpackun
- g).
+DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen
+ \, aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpa
+ ckung).
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Gelber Sack
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Grünschnitt
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-24
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:Grünschnitt mit Kordel bündeln bzw.  in kompostierbare Papiersä
- cke (ca. 80 Liter) füllen\; feste Behältnisse wie z.B. kleinere Mörtelkübel
-  oder Pop-up Säcke\, leicht zu entleeren\, nur auf eigene Gefahr bereitstel
- len\; Papiersäcke offenlassen\; Bündel bzw. Säcke höchstens 40 kg schwer un
- d Äste im Bündel max. 1 Meter lang und 10 cm dick\; keine Big Bags/Regenfäs
- ser/Schubkarren verwenden\; Kein Mutterboden\, keine Grasnarbe! 
+DESCRIPTION:Grünschnitt mit Kordel bündeln bzw.  in kompostierbare Papie
+ rsäcke (ca. 80 Liter) füllen\; feste Behältnisse wie z.B. kleinere Mör
+ telkübel oder Pop-up Säcke\, leicht zu entleeren\, nur auf eigene Gefahr
+  bereitstellen\; Papiersäcke offenlassen\; Bündel bzw. Säcke höchstens
+  40 kg schwer und Äste im Bündel max. 1 Meter lang und 10 cm dick\; kein
+ e Big Bags/Regenfässer/Schubkarren verwenden\; Kein Mutterboden\, keine G
+ rasnarbe! 
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Grünschnitt
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gelber Sack
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-39
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen\, 
- aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpackun
- g).
+DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen
+ \, aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpa
+ ckung).
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Gelber Sack
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tannenbäume
 DTSTART;VALUE=DATE:20260202
 DTEND;VALUE=DATE:20260203
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-48
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:Weihnachtsbäume\, max. 1\,80 m lang\, am Stück\, nicht zerlegt\
- , ohne Dekoration\, ohne Ständer\; Keinen sonstigen Grünschnitt beilegen - 
- wird nicht mitgenommen!
+DESCRIPTION:Weihnachtsbäume\, max. 1\,80 m lang\, am Stück\, nicht zerle
+ gt\, ohne Dekoration\, ohne Ständer\; Keinen sonstigen Grünschnitt beile
+ gen - wird nicht mitgenommen!
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Tannenbäume
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Altpapier
 DTSTART;VALUE=DATE:20260727
 DTEND;VALUE=DATE:20260728
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-10
+SEQUENCE:0
 CREATED:20251203T125145Z
-DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Altp
- apiertonne bereitstellen!
+DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Al
+ tpapiertonne bereitstellen!
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Altpapier
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gelber Sack
 DTSTART;VALUE=DATE:20260205
 DTEND;VALUE=DATE:20260206
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-27
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen\, 
- aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpackun
- g).
+DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen
+ \, aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpa
+ ckung).
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Gelber Sack
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Altpapier
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-14
+SEQUENCE:0
 CREATED:20251203T125145Z
-DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Altp
- apiertonne bereitstellen!
+DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Al
+ tpapiertonne bereitstellen!
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Altpapier
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Altpapier
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-15
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Altp
- apiertonne bereitstellen!
+DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Al
+ tpapiertonne bereitstellen!
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Altpapier
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gelber Sack
 DTSTART;VALUE=DATE:20260115
 DTEND;VALUE=DATE:20260116
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-26
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen\, 
- aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpackun
- g).
+DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen
+ \, aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpa
+ ckung).
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Gelber Sack
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Altpapier
 DTSTART;VALUE=DATE:20260323
 DTEND;VALUE=DATE:20260324
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-4
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Altp
- apiertonne bereitstellen!
+DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Al
+ tpapiertonne bereitstellen!
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Altpapier
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gelber Sack
 DTSTART;VALUE=DATE:20260410
 DTEND;VALUE=DATE:20260411
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-30
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen\, 
- aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpackun
- g).
+DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen
+ \, aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpa
+ ckung).
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Gelber Sack
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Altpapier
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-16
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Altp
- apiertonne bereitstellen!
+DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Al
+ tpapiertonne bereitstellen!
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Altpapier
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gelber Sack
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-37
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen\, 
- aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpackun
- g).
+DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen
+ \, aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpa
+ ckung).
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Gelber Sack
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gelber Sack
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-41
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen\, 
- aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpackun
- g).
+DESCRIPTION:In die Gelben Säcke nur leere\, grob gesäuberte Verpackungen
+ \, aus Kunststoff/Verbundstoff/Metall\, geben (Baustyropor ist keine Verpa
+ ckung).
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Gelber Sack
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Altpapier
 DTSTART;VALUE=DATE:20260526
 DTEND;VALUE=DATE:20260527
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-7
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Altp
- apiertonne bereitstellen!
+DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Al
+ tpapiertonne bereitstellen!
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Altpapier
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Schadstoffe
 DTSTART:20261107T080000Z
 DTEND:20261107T114500Z
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-44
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:Problemabfälle an diesem Tag beim Fachpersonal der Schadstoffsa
- mmelstelle\, Schlachthofstraße 2 - 12 abgeben\; Annahmezeiten und Schließze
- iten beachten!
+DESCRIPTION:Problemabfälle an diesem Tag beim Fachpersonal der Schadstoff
+ sammelstelle\, Schlachthofstraße 2 - 12 abgeben\; Annahmezeiten und Schli
+ eßzeiten beachten!
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Schadstoffsammelstelle
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Schadstoffe
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Altpapier
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-11
+SEQUENCE:0
 CREATED:20251203T125145Z
-DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Altp
- apiertonne bereitstellen!
+DESCRIPTION:Altpapier mit Kordel gebündelt oder in Kartons bzw. Blauer Al
+ tpapiertonne bereitstellen!
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Altpapier
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Grünschnitt
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 DTSTAMP:20251203T135614Z
 UID:20251202T125716Z-@spyron-25
+SEQUENCE:0
 CREATED:20251203T125146Z
-DESCRIPTION:Grünschnitt mit Kordel bündeln bzw.  in kompostierbare Papiersä
- cke (ca. 80 Liter) füllen\; feste Behältnisse wie z.B. kleinere Mörtelkübel
-  oder Pop-up Säcke\, leicht zu entleeren\, nur auf eigene Gefahr bereitstel
- len\; Papiersäcke offenlassen\; Bündel bzw. Säcke höchstens 40 kg schwer un
- d Äste im Bündel max. 1 Meter lang und 10 cm dick\; keine Big Bags/Regenfäs
- ser/Schubkarren verwenden\; Kein Mutterboden\, keine Grasnarbe! 
+DESCRIPTION:Grünschnitt mit Kordel bündeln bzw.  in kompostierbare Papie
+ rsäcke (ca. 80 Liter) füllen\; feste Behältnisse wie z.B. kleinere Mör
+ telkübel oder Pop-up Säcke\, leicht zu entleeren\, nur auf eigene Gefahr
+  bereitstellen\; Papiersäcke offenlassen\; Bündel bzw. Säcke höchstens
+  40 kg schwer und Äste im Bündel max. 1 Meter lang und 10 cm dick\; kein
+ e Big Bags/Regenfässer/Schubkarren verwenden\; Kein Mutterboden\, keine G
+ rasnarbe! 
 LAST-MODIFIED:20251203T125147Z
 LOCATION:Rauental
-SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Grünschnitt
 TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Braune Tonne (Biotonne)
+DTSTART;VALUE=DATE:20260105
+DTEND;VALUE=DATE:20260106
+UID:2026-01-05-e9e2e963-a2cd-44fb-9447-3e2b0b0df073@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graue Tonne (Restmüll)
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260113
+UID:2026-01-12-be57313b-1251-460e-8f29-482e1da177b7@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Braune Tonne (Biotonne)
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260120
+UID:2026-01-19-b804e15d-ea96-4bc9-af35-ec8ecec57a47@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graue Tonne (Restmüll)
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260127
+UID:2026-01-26-be590435-5ca2-4838-9581-d5443edd4292@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Braune Tonne (Biotonne)
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260203
+UID:2026-02-02-568e9bc4-8c22-4bb8-aa1b-2f3efc97ee04@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graue Tonne (Restmüll)
+DTSTART;VALUE=DATE:20260209
+DTEND;VALUE=DATE:20260210
+UID:2026-02-09-3f6700d6-fc0c-455a-8121-8bc4b895acee@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Braune Tonne (Biotonne)
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260217
+UID:2026-02-16-4494ce1f-d9a9-4824-9789-93bd96998924@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graue Tonne (Restmüll)
+DTSTART;VALUE=DATE:20260223
+DTEND;VALUE=DATE:20260224
+UID:2026-02-23-feb78135-aa17-420d-887b-4847a35ee02c@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Braune Tonne (Biotonne)
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260303
+UID:2026-03-02-48256713-12ec-4301-80ff-ffc65f2e122f@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graue Tonne (Restmüll)
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260310
+UID:2026-03-09-00ab4757-bbad-49d7-bdb8-e0fab8ecf698@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Braune Tonne (Biotonne)
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260317
+UID:2026-03-16-701b60cf-1482-45e3-92b1-160fad34f257@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graue Tonne (Restmüll)
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260324
+UID:2026-03-23-3d0f2e7a-3ef5-412b-b227-985064dbd15f@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Braune Tonne (Biotonne)
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+UID:2026-03-30-5cbfa102-cce1-4f96-b49a-0e566035e42d@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graue Tonne (Restmüll)
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260408
+UID:2026-04-07-30e49b1f-dea1-4410-8dc4-5b3844fd31f9@garbage-gen
+DESCRIPTION:Verschoben wegen Feiertag (ursprünglich Montag\, 06.04.2026)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Braune Tonne (Biotonne)
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260414
+UID:2026-04-13-3ce48fe4-17fe-45e7-9390-609da65ecf36@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graue Tonne (Restmüll)
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+UID:2026-04-20-a2c29cc0-5a0e-49bb-8af4-498a4016f41c@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Braune Tonne (Biotonne)
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260428
+UID:2026-04-27-731a30d8-e299-4db3-a5b6-77deb635d4e6@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graue Tonne (Restmüll)
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260505
+UID:2026-05-04-af8e9ba9-9145-44d2-8422-913d8673dc0d@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Braune Tonne (Biotonne)
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260512
+UID:2026-05-11-8c6b1930-c4dc-4bee-b7c7-50cf56a43503@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graue Tonne (Restmüll)
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+UID:2026-05-18-47fff624-3d43-4262-a0fa-ae40ecc23fa7@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Braune Tonne (Biotonne)
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+UID:2026-05-26-7af81ef0-bf62-45c2-86af-0c92e4a2e2e8@garbage-gen
+DESCRIPTION:Verschoben wegen Feiertag (ursprünglich Montag\, 25.05.2026)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graue Tonne (Restmüll)
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+UID:2026-06-01-586dd6c1-1247-411c-8377-509e8b0ba132@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Braune Tonne (Biotonne)
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
+UID:2026-06-08-4f3988fa-d0ef-4fe4-b0a8-e1f401fe8c53@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graue Tonne (Restmüll)
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+UID:2026-06-15-f28ac712-b14a-4bdb-acca-1b6daa359c03@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Braune Tonne (Biotonne)
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260623
+UID:2026-06-22-70f3b565-9305-473f-85b9-3ba99c663a38@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graue Tonne (Restmüll)
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+UID:2026-06-29-9b2f1be9-de6a-49cf-b5b1-6bb3c6bb36b1@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Braune Tonne (Biotonne)
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260707
+UID:2026-07-06-290049b5-f2b9-490d-91f6-e31cacdae0d5@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graue Tonne (Restmüll)
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260714
+UID:2026-07-13-5c24ed45-0dbe-4b5f-a102-f1c308ff4f04@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Braune Tonne (Biotonne)
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+UID:2026-07-20-163e0917-9438-4283-a787-7bccece5cc94@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graue Tonne (Restmüll)
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+UID:2026-07-27-33a35923-900c-4247-98ac-11b59fa9ba89@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Braune Tonne (Biotonne)
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+UID:2026-08-03-c4a4788b-b358-492d-b9b0-fa084ba0e72d@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graue Tonne (Restmüll)
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+UID:2026-08-10-dabf071a-d297-4d4e-a931-f3f086107585@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Braune Tonne (Biotonne)
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+UID:2026-08-17-769fff1c-6701-4309-a048-67989a9dba70@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graue Tonne (Restmüll)
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+UID:2026-08-24-251f4f31-70b8-4979-b197-9557cd99046c@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Braune Tonne (Biotonne)
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+UID:2026-08-31-cd29f0c8-9182-4166-85b8-22ce346119c3@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graue Tonne (Restmüll)
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+UID:2026-09-07-44a06d03-b1fb-4e8c-b88d-3e72b1ed0523@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Braune Tonne (Biotonne)
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+UID:2026-09-14-8e3f790f-8fed-42bd-ac80-1c0e7130577f@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graue Tonne (Restmüll)
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+UID:2026-09-21-7d14df7d-0f9f-44e7-a3c4-b4249d0f4151@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Braune Tonne (Biotonne)
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+UID:2026-09-28-6001e53d-969e-4414-959a-1c737d0bc075@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graue Tonne (Restmüll)
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+UID:2026-10-05-48ef6a19-111a-4c17-9c39-3026237f5867@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Braune Tonne (Biotonne)
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+UID:2026-10-12-f853db00-52b1-41c6-9015-7d1b7815a2d1@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graue Tonne (Restmüll)
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+UID:2026-10-19-81132716-3bbf-48d7-b827-9c448cc6db2e@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Braune Tonne (Biotonne)
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+UID:2026-10-26-36362670-ffa5-4c9d-9900-80d85d3196dd@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graue Tonne (Restmüll)
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+UID:2026-11-02-bb15ea11-ee45-4692-b4a6-d61d7d222f10@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Braune Tonne (Biotonne)
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+UID:2026-11-09-bdeb7b3e-59b8-41ed-ac9e-a392bedc9a02@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graue Tonne (Restmüll)
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+UID:2026-11-16-2cc073fb-2ebc-4eb9-837d-5340fbfd5179@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Braune Tonne (Biotonne)
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+UID:2026-11-23-08d71588-6df1-4b05-8c4e-39fda59a4b83@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graue Tonne (Restmüll)
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+UID:2026-11-30-e3ed7bac-d063-43c3-9a36-7061133907c2@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Braune Tonne (Biotonne)
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+UID:2026-12-07-99d2e449-99c1-43a0-8ac3-a9eaaf45de6e@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graue Tonne (Restmüll)
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+UID:2026-12-14-495c8af2-c9e0-43e4-8878-8e301ff2329c@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Braune Tonne (Biotonne)
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+UID:2026-12-21-b6a9779d-6ca5-42c3-9517-6ad1e791f44e@garbage-gen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graue Tonne (Restmüll)
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+UID:2026-12-28-722656ba-cee0-4a16-a58e-ae96de49b363@garbage-gen
 END:VEVENT
 END:VCALENDAR
