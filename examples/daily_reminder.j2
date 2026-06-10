@@ -1,0 +1,5 @@
+{% set morgen = events | selectattr('days_until', 'equalto', 1) | list %}
+{% set heute = events | selectattr('days_until', 'equalto', 0) | list %}
+{% set show = morgen if morgen else heute %}
+{% set wann = "morgen" if morgen else "heute" %}
+{% if show %}{{ show | map(attribute='summary') | join(' und ') }} {{ wann }}{% endif %}
